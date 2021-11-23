@@ -1,0 +1,7 @@
+E:\CODE DAO\Exercise_OOP_CSharp\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+E:\CODE DAO\Exercise_OOP_CSharp\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+E:\CODE DAO\Exercise_OOP_CSharp\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+E:\CODE DAO\Exercise_OOP_CSharp\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+E:\CODE DAO\Exercise_OOP_CSharp\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+E:\CODE DAO\Exercise_OOP_CSharp\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.CodeAnalysisLog.xml
+E:\CODE DAO\Exercise_OOP_CSharp\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.lastcodeanalysissucceeded
